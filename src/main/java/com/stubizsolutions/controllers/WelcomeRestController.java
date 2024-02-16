@@ -9,7 +9,7 @@ public class WelcomeRestController
 	@GetMapping("/")
 	public String getMsg() 
 	{
-		return "Welcome to our world";
+		return "Welcome to the classes";
 	}
 
 }
